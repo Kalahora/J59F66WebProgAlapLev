@@ -1,0 +1,30 @@
+ {
+    "J59F66_orarend":{
+        "ora": [
+            {
+            "targy" : "Webprogramozás alapjai",
+            "idopont" : {
+                "datum" : "december 12",
+                "tol" : 9,
+                "ig" : 13
+                },
+            "helyszín": "Inf. 124",
+            "oktato" : "Dr. Bednarik László",
+            "szak" : "Programtervező"
+            },
+            {
+            "targy" : "Webprogramozás alapjai",
+            "idopont" : {
+                "datum" : "december 12",
+                "tol" : 9,
+                "ig" : 13
+                },
+            "helyszín": "Inf. 124",
+            "oktato" : "Dr. Bednarik László",
+            "szak" : "Programtervező"
+            }
+
+            
+        ]
+    }
+ }
